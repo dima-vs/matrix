@@ -1,6 +1,6 @@
-@import url("./css/main.css");
-@import url("./css/menu.css");
-@import url("./css/matrix-input.css");
-@import url("./css/matrix-result.css");
-@import url("./css/operation.css");
-@import url("./css/operations/unary-operation/main.css");
+@import url("./src/css/main.css");
+@import url("./src/css/menu.css");
+@import url("./src/css/matrix-input.css");
+@import url("./src/css/matrix-result.css");
+@import url("./src/css/operation.css");
+@import url("./src/css/operations/unary-operation/main.css");
